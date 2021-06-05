@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16027487-d917-470a-973d-81502001a03e" name="Default Changelist" comment="Initial Spring boot commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="16027487-d917-470a-973d-81502001a03e" name="Default Changelist" comment="Initial Letter Of Credit commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622904516132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Spring boot commit">
+      <created>1622904902954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622904902954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Letter Of Credit commit">
+      <created>1622905154195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622905154195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,12 +97,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Spring boot commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Spring boot commit" />
+    <MESSAGE value="Initial Letter Of Credit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Letter Of Credit commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1622904566538">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1622905171541">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622904566538" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622905171541" />
   </component>
 </project>
